@@ -1,4 +1,4 @@
-module Codemirror exposing (codemirror)
+module CodeMirror exposing (codemirror)
 
 import Html exposing (node, Html)
 import Html.Attributes exposing (attribute)
