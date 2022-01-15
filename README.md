@@ -40,4 +40,5 @@ codemirror
       }
   }
 ```
+
 See more details in the [CodeMirror docs](https://codemirror.net/).
