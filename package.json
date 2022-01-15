@@ -29,5 +29,13 @@
     "codemirror": "^5.64.0",
     "core-js": "^3.19.3",
     "nanoid": "^3.1.30"
+  },
+  "homepage": "https://github.com/balovbohdan/codemirror-elm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/balovbohdan/codemirror-elm"
+  },
+  "bugs": {
+    "url" : "https://github.com/balovbohdan/codemirror-elm/issues"
   }
 }
