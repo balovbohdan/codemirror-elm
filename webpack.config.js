@@ -1,9 +1,4 @@
 const path = require('path');
-const CopyWebpackPlugin = require("copy-webpack-plugin");
-
-const copyWebpackPlugin = new CopyWebpackPlugin({
-  patterns: [{ from: 'src/*.elm', to: 'dist/[name][ext]' }],
-});
 
 module.exports = {
   entry: path.resolve(__dirname, 'src'),
@@ -24,5 +19,4 @@ module.exports = {
       },
     ],
   },
-  plugins: [copyWebpackPlugin],
 };
