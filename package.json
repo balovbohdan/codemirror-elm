@@ -2,7 +2,7 @@
   "name": "codemirror-elm",
   "version": "1.0.0",
   "description": "Elm adapter for codemirror",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "webpack --mode=production"
   },
