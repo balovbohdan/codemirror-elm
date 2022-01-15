@@ -1,6 +1,6 @@
 {
   "name": "codemirror-elm",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Elm adapter for codemirror",
   "main": "index.js",
   "scripts": {
